@@ -12,7 +12,7 @@ import com.ms.email.Dtos.EmailDto;
 import com.ms.email.Models.EmailModel;
 import com.ms.email.Services.EmailService;
 
-import jakarta.validation.Valid;
+//import jakarta.validation.Valid;
 
 @RestController
 public class EmailController{
